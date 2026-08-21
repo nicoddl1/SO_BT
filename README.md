@@ -22,7 +22,7 @@ Abre una terminal en tu servidor Ubuntu y ejecuta el siguiente comando para desp
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/nicoddl1/SO_BT/main/escuela.sh | sudo bash
-'''
+
 
 ## ℹ️** Información del Entorno**
 Directorio de trabajo   /opt/escuela
