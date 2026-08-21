@@ -21,4 +21,4 @@ El servidor contiene inconsistencias y fallas de seguridad en la configuración 
 Abre una terminal en tu servidor Ubuntu y ejecuta el siguiente comando para desplegar el escenario de prueba:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/nicoddl1/SO_BT/main/escuela.sh](https://raw.githubusercontent.com/nicoddl1/SO_BT/main/escuela.sh) | sudo bash
+curl -sSL https://raw.githubusercontent.com/nicoddl1/SO_BT/main/escuela.sh | sudo bash
