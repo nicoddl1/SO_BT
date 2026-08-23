@@ -1,8 +1,9 @@
 # SO_BT
 Material Sistemas operativos BT
-intro: https://canva.link/j3golkxbg03or1q
 
-Para ejecutar el script desde el server:
+**intro:** https://canva.link/j3golkxbg03or1q
+
+
 
 # Laboratorio de Auditoría y Remediación en Linux de usuarios y permisos
 
@@ -19,7 +20,7 @@ El servidor contiene inconsistencias y fallas de seguridad en la configuración 
 
 ## 🚀 Despliegue del Entorno
 
-Abre una terminal en tu servidor Ubuntu y ejecuta el siguiente comando para desplegar el escenario de prueba:
+Abre una terminal en el servidor y ejecuta el siguiente comando para desplegar el escenario de prueba:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/nicoddl1/SO_BT/main/escuela.sh | sudo bash
