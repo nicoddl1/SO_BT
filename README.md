@@ -1,5 +1,6 @@
 # SO_BT
 Material Sistemas operativos BT
+intro: https://www.canva.com/design/DAHS80rMpdg/r9PwvDlStPdKCrALpGgwig/view?utm_content=DAHS80rMpdg&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
 Para ejecutar el script desde el server:
 
