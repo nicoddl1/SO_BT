@@ -8,4 +8,4 @@ En cada caso se indicará como se realiza la descarga y ejecución si es el caso
 
 ## 📂 Contenido del Repositorio
 
-*   **`[usuarios_y_permisos]/(usuarios_y_permisos/)`**: Práctica sobre usuarios y permisos.
+*   **`[usuarios_y_permisos]/(usuarios_y_permisos/)`**: Práctica sobre usuarios y permisos. 
