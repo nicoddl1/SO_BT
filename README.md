@@ -1,4 +1,4 @@
-# Repositorio de Prácticas y laboratorios
+# Repositorio de Prácticas y laboratorios -- Sistemas operativos BT informática
 
 Este repositorio ha sido creado con el propósito de almacenar y organizar diversas prácticas y laboratorios de la unidad de Sistemas operativos.
 El objetivo es facilitar el acceso a un entorno que simula diferentes casos de estudio.
